@@ -2,4 +2,4 @@
 
 Hello guys!
 
-It's Meruthiga here..It like programming!
+It's Meruthiga here..I like programming!
